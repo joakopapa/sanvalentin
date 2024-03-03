@@ -1,7 +1,7 @@
 {
   "name": "marti",
   "private": true,
-  "homepage": "https://joakopapa.github.io/sanvalentin/build",
+  "homepage": "https://joakopapa.github.io/sanvalentin",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
